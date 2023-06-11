@@ -1,13 +1,86 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+img {
+  width: 300px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+input {
+  width: 100%;
+}
+
+textarea {
+  width: 100%;
+  height: 200px;
+}
+
+button {
+}
+
+h1 {
+  font-size: 100pt;
+  line-height: 0pt;
+}
+
+h2 {
+  font-size: 30pt;
+  line-height: 0px;
+}
+
+h3 {
+  font-size: 13pt;
+}
+
+h1, h2, h3 {
+  font-family: 'Amatic SC', sans-serif;
+}
+
+h4 {
+  font-size: 9pt;
+  line-height: 0px;
+}
+
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+
+#form-container {
+  width: 300px;
+  margin: auto;
+  text-align: center;
+}
+
+#comment-form textarea {
+  width: 300px;
+  height: 100px;
+}
+
+h3, h2 {
+  display: inline;
+}
+
+ol {
+  list-style: none;
+}
+
+.link {
+  margin: 15px;
+}
+
+.birb {
+  display: inline-block;
+  vertical-align: top;
+  margin: 30px;
+}
+
+#title {
+  text-align: center;
+}
+
+.likes {
+  float: right;
+  font-size: 20pt;
+}
+
+.like-btn {
+  background: none;
+  border: none;
+  font-size: 25pt;
 }

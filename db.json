@@ -1,0 +1,85 @@
+{
+  "birbs": [
+    {
+      "id": 1,
+      "name": "Woody",
+      "story": "how much wood",
+      "image": "https://media.audubon.org/tufted_titmouse._photo_deborah_bifulco_great_backyard_bird_count.jpg",
+      "likes": 7,
+      "comments": [
+        "luv for woody!"
+      ]
+    },
+    {
+      "name": "Sally",
+      "story": "she is lovely",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg/640px-Eopsaltria_australis_-_Mogo_Campground.jpg",
+      "likes": 4,
+      "comments": [
+        "heyo",
+        "hello birb",
+        "hi birb"
+      ],
+      "id": 2
+    },
+    {
+      "name": "Phil",
+      "story": "He talks a lot",
+      "image": "https://static.scientificamerican.com/sciam/cache/file/7A715AD8-449D-4B5A-ABA2C5D92D9B5A21_source.png",
+      "likes": 5,
+      "comments": [
+        "i luv u phil"
+      ],
+      "id": 3
+    },
+    {
+      "name": "Nancy",
+      "story": "Love her.",
+      "image": "https://media.npr.org/assets/img/2021/11/05/ap21309626616879_wide-15b2fb050f8a01806c5e3c598df7c01d8d756fa4-s1400-c100.jpg",
+      "likes": 7,
+      "comments": [
+        "halp",
+        "try it",
+        "hi, nancy",
+        "will this post",
+        "lol",
+        "well :(",
+        "hiiii!!!",
+        "gawgeous",
+        "heyo beautiful"
+      ],
+      "id": 4
+    },
+    {
+      "name": "Hannah",
+      "story": "she loves to read",
+      "image": "https://www.rspca.org.au/sites/default/files/blog-image/shutterstock_685368169.jpg",
+      "likes": 9,
+      "comments": [
+        "hey hannah :)",
+        "hi birbie",
+        "birbie",
+        "beep beep"
+      ],
+      "id": 5
+    },
+    {
+      "name": "Georgia",
+      "story": "hello guys",
+      "image": "https://images.unsplash.com/photo-1552728089-57bdde30beb3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmlyZHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "likes": 4,
+      "comments": [],
+      "id": 6
+    },
+    {
+      "name": "Horace",
+      "story": "Hsssss",
+      "image": "https://nationalzoo.si.edu/sites/default/files/styles/768_scale/public/wysiwyg_uploads/american-robin-20050327-027ab.jpg?itok=xbPgat1x",
+      "likes": 1,
+      "comments": [
+        "hi horace"
+      ],
+      "id": 7
+    }
+  ]
+}
