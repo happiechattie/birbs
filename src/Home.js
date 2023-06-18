@@ -2,10 +2,9 @@ import React, { useEffect, useState } from "react";
 import { v4 as uuid } from "uuid";
 import Birb from "./Birb";
 
-function Home({birbs}){
+function Home({ birbs }){
 
     const [birbToSearch, setBirbToSearch] = useState('');
-
 
     function handleChange(e){
         setBirbToSearch(e.target.value);

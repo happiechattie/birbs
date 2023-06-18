@@ -26,7 +26,7 @@ function App() {
       <NavBar />
       <Switch>
         <Route exact path="/">
-          <Home birbs={birbs}/>
+          <Home birbs={birbs}  />
         </Route>
         <Route exact path="/new">
           <New handleNew={handleNew}/>

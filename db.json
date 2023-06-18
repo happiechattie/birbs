@@ -5,7 +5,7 @@
       "name": "Woody",
       "story": "how much wood",
       "image": "https://media.audubon.org/tufted_titmouse._photo_deborah_bifulco_great_backyard_bird_count.jpg",
-      "likes": 9,
+      "likes": 10,
       "comments": [
         "luv for woody!",
         "the woodster"
@@ -57,7 +57,7 @@
       "name": "Hannah",
       "story": "she loves to read",
       "image": "https://www.rspca.org.au/sites/default/files/blog-image/shutterstock_685368169.jpg",
-      "likes": 9,
+      "likes": 10,
       "comments": [
         "hey hannah :)",
         "hi birbie",
@@ -79,9 +79,10 @@
       "name": "Horace",
       "story": "Hsssss",
       "image": "https://nationalzoo.si.edu/sites/default/files/styles/768_scale/public/wysiwyg_uploads/american-robin-20050327-027ab.jpg?itok=xbPgat1x",
-      "likes": 2,
+      "likes": 3,
       "comments": [
-        "hi horace"
+        "hi horace",
+        "HELLOOOOOOO"
       ],
       "id": 7
     },
@@ -97,8 +98,10 @@
       "name": "Bart",
       "story": "Bart loves old jazz and contemporary classical.",
       "image": "https://www.thespruce.com/thmb/7i24MewNuomTbv-I9mUxLx8l-yc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-a-bird-385521-hero-645b1041792147b88f3ccdf712f11a04.jpg",
-      "likes": 0,
-      "comments": [],
+      "likes": 1,
+      "comments": [
+        "boo beep boo doo wop"
+      ],
       "id": 9
     },
     {
@@ -113,7 +116,7 @@
       "name": "Arnold",
       "story": "he likes to swim :)",
       "image": "https://miro.medium.com/v2/resize:fit:1400/0*KSpjMuNzB8H4jnFt",
-      "likes": 0,
+      "likes": 1,
       "comments": [],
       "id": 11
     },
@@ -129,7 +132,7 @@
       "name": "michael",
       "story": "michael plays saxophone on the beach sometimes when no one is there",
       "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/171633971/1200",
-      "likes": 0,
+      "likes": 1,
       "comments": [
         "I KNOOOOOOOOW"
       ],
@@ -169,7 +172,7 @@
       "name": "Jerry",
       "story": "he teaches art",
       "image": "https://images.saymedia-content.com/.image/t_share/MTc0MjYyNjAyMTAzMjY5MjQ0/10-colourful-birds.jpg",
-      "likes": 1,
+      "likes": 2,
       "comments": [
         "jerry jerry quite contrary"
       ],
@@ -180,15 +183,21 @@
       "story": "rawr",
       "image": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/0412_bird_0.jpg?itok=xA0tNaBF",
       "likes": 1,
-      "comments": [],
+      "comments": [
+        "tiger dude"
+      ],
       "id": 18
     },
     {
       "name": "Ginger",
       "story": "cuckoo",
       "image": "https://optimise2.assets-servd.host/steadfast-tern/production/what-is-the-state-bird-of-illinois.jpg?w=1200&h=900&q=80&fm=webp&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&dm=1635500802&s=d7f6a13fa4bed26d174138bfcd7af917",
-      "likes": 0,
-      "comments": [],
+      "likes": 1,
+      "comments": [
+        "ginger is the coolest",
+        "hey ginger sup",
+        "heyo"
+      ],
       "id": 19
     },
     {
@@ -196,23 +205,38 @@
       "story": "the moon cries for me",
       "image": "https://www.si.edu/sites/default/files/styles/social_media/public/blog/mountain_bluebird-630x4271.jpg?itok=aqoI7pk6",
       "likes": 2,
-      "comments": [],
+      "comments": [
+        "moody goddess",
+        "goddess why so moody"
+      ],
       "id": 20
     },
     {
       "name": "Mare",
       "story": "save the kingdom!",
       "image": "https://coloradoencyclopedia.org/sites/default/files/styles/large/public/Lark-Bunting%5B1%5D.jpg?itok=YqCGxA6C",
-      "likes": 0,
-      "comments": [],
+      "likes": 1,
+      "comments": [
+        "oh mare you're a nightmare",
+        "mare mare mare",
+        "pat",
+        "handle it, mare",
+        "handling it for you, mare"
+      ],
       "id": 21
     },
     {
       "name": "Ellie",
       "story": "here is ellie the bird, she loves to swim and eat and clown around",
       "image": "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/ohio-birds/blue-jay-6951257.jpg?crop=0%2C548%2C4384%2C2411&wid=4000&hei=2200&scl=1.096",
-      "likes": 0,
-      "comments": [],
+      "likes": 1,
+      "comments": [
+        "cht cht cht cht ch ch cheep",
+        "boooooOOooOoO i'm a ghost",
+        "borbie",
+        "comment",
+        "cheep cheep"
+      ],
       "id": 22
     }
   ]
