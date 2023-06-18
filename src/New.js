@@ -32,23 +32,26 @@ function New(props){
                 story: birbData.story,
                 image: birbData.image,
                 likes: 0,
-                comments: []
+                comments: [],
             })
         })
         .then(r => r.json())
         .then(setSubmitted(true))
+        .then(props.handleNew(birbData))
         e.target.reset();
     }
 
-    return (<div id='form-container'>
+    return (<div><div className='form-container'>
         <form onSubmit={handleSubmit}>
             <input onChange={handleChange} type='text' name="name" defaultValue='Name the Birb' id='nameInput' /><br />
             <textarea onChange={handleChange} name='story' defaultValue='Story of the Birb' id='storyInput' /><br />
             <input onChange={handleChange} type='text' name='image' defaultValue='Image URL of Birb' id='imgInput' /><br />
             <button type='submit' id='submit-btn'>FLY BIRBIE FLY!</button>
         </form>
-        {submitted && (<h1>SUBMITTED</h1>)}
-    </div>)
+    </div>
+    {submitted && (<div id='newBirb'><h1>SUBMITTED</h1>
+    <h2>Say hello to {birbData.name}</h2><br></br>
+    <img src={birbData.image}/></div>)}</div>)
 }
 
 export default New;

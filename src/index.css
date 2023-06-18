@@ -34,17 +34,21 @@ h1, h2, h3 {
 
 h4 {
   font-size: 9pt;
-  line-height: 0px;
+  line-height: 13px;
 }
 
 body {
   font-family: 'Quicksand', sans-serif;
 }
 
-#form-container {
+.form-container {
   width: 300px;
   margin: auto;
   text-align: center;
+}
+
+.comment {
+  width: 300px;
 }
 
 #comment-form textarea {
@@ -83,4 +87,9 @@ ol {
   background: none;
   border: none;
   font-size: 25pt;
+}
+
+#newBirb {
+  margin: auto;
+  text-align: center;
 }

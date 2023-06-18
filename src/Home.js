@@ -2,19 +2,24 @@ import React, { useEffect, useState } from "react";
 import { v4 as uuid } from "uuid";
 import Birb from "./Birb";
 
-function Home(){
+function Home({birbs}){
 
-    const [birbs, setBirbs] = useState([]);
+    const [birbToSearch, setBirbToSearch] = useState('');
 
-    useEffect(() => {
-        fetch('http://localhost:4000/birbs')
-        .then(r => r.json())
-        .then(data => setBirbs(data))
-    }, [])
+
+    function handleChange(e){
+        setBirbToSearch(e.target.value);
+    }
+
+    const birbsToDisplay = birbs.filter(birb => {
+        if (birbToSearch === '') return true;
+        else {return (birb.name.toUpperCase().includes(birbToSearch.toUpperCase()))}
+    })
 
     return (
         <div><h1 id='title'>BIRBS</h1>
-        {birbs.reverse().map(birb =>
+        <div className='form-container'><input type="text" onChange={handleChange} defaultValue="Where art thou, sweet birbie?"></input></div><br></br>
+        {birbsToDisplay.map(birb =>
             <Birb key={uuid()} birb={birb} />
         )}</div>
     )

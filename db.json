@@ -5,16 +5,17 @@
       "name": "Woody",
       "story": "how much wood",
       "image": "https://media.audubon.org/tufted_titmouse._photo_deborah_bifulco_great_backyard_bird_count.jpg",
-      "likes": 7,
+      "likes": 9,
       "comments": [
-        "luv for woody!"
+        "luv for woody!",
+        "the woodster"
       ]
     },
     {
       "name": "Sally",
       "story": "she is lovely",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Eopsaltria_australis_-_Mogo_Campground.jpg/640px-Eopsaltria_australis_-_Mogo_Campground.jpg",
-      "likes": 4,
+      "likes": 5,
       "comments": [
         "heyo",
         "hello birb",
@@ -26,9 +27,10 @@
       "name": "Phil",
       "story": "He talks a lot",
       "image": "https://static.scientificamerican.com/sciam/cache/file/7A715AD8-449D-4B5A-ABA2C5D92D9B5A21_source.png",
-      "likes": 5,
+      "likes": 7,
       "comments": [
-        "i luv u phil"
+        "i luv u phil",
+        "phil, that guy"
       ],
       "id": 3
     },
@@ -46,7 +48,8 @@
         "well :(",
         "hiiii!!!",
         "gawgeous",
-        "heyo beautiful"
+        "heyo beautiful",
+        "<3"
       ],
       "id": 4
     },
@@ -59,7 +62,8 @@
         "hey hannah :)",
         "hi birbie",
         "birbie",
-        "beep beep"
+        "beep beep",
+        "oi there hannah"
       ],
       "id": 5
     },
@@ -67,7 +71,7 @@
       "name": "Georgia",
       "story": "hello guys",
       "image": "https://images.unsplash.com/photo-1552728089-57bdde30beb3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YmlyZHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
-      "likes": 4,
+      "likes": 5,
       "comments": [],
       "id": 6
     },
@@ -75,11 +79,141 @@
       "name": "Horace",
       "story": "Hsssss",
       "image": "https://nationalzoo.si.edu/sites/default/files/styles/768_scale/public/wysiwyg_uploads/american-robin-20050327-027ab.jpg?itok=xbPgat1x",
-      "likes": 1,
+      "likes": 2,
       "comments": [
         "hi horace"
       ],
       "id": 7
+    },
+    {
+      "name": "Harriet",
+      "story": "once upon a time, harriet was born and caused chaos forever and ever.",
+      "image": "https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3A0ba586225829936cba25520af543d94e07865a2a5dab2a85e4b6ac8e%2BIMAGE_TINY%2BIMAGE_TINY.1",
+      "likes": 1,
+      "comments": [],
+      "id": 8
+    },
+    {
+      "name": "Bart",
+      "story": "Bart loves old jazz and contemporary classical.",
+      "image": "https://www.thespruce.com/thmb/7i24MewNuomTbv-I9mUxLx8l-yc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/what-is-a-bird-385521-hero-645b1041792147b88f3ccdf712f11a04.jpg",
+      "likes": 0,
+      "comments": [],
+      "id": 9
+    },
+    {
+      "name": "Baby Mac",
+      "story": "the best thing about being a bird is that birds love birds",
+      "image": "https://customsitesmedia.usc.edu/wp-content/uploads/sites/59/2019/11/16024710/Taiwan-Blue-Magpie-web-824x549.jpg",
+      "likes": 0,
+      "comments": [],
+      "id": 10
+    },
+    {
+      "name": "Arnold",
+      "story": "he likes to swim :)",
+      "image": "https://miro.medium.com/v2/resize:fit:1400/0*KSpjMuNzB8H4jnFt",
+      "likes": 0,
+      "comments": [],
+      "id": 11
+    },
+    {
+      "name": "John",
+      "story": "john loves cookies and cake and rats and mice",
+      "image": "https://cdn.britannica.com/55/118455-050-A14678BB/Osprey.jpg",
+      "likes": 2,
+      "comments": [],
+      "id": 12
+    },
+    {
+      "name": "michael",
+      "story": "michael plays saxophone on the beach sometimes when no one is there",
+      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/171633971/1200",
+      "likes": 0,
+      "comments": [
+        "I KNOOOOOOOOW"
+      ],
+      "id": 13
+    },
+    {
+      "name": "estrella",
+      "story": "she shines in the night for you",
+      "image": "https://lafeber.com/pet-birds/wp-content/uploads/2018/06/Lovebird-300x300.jpg",
+      "likes": 1,
+      "comments": [
+        "shine bright shine far\nbe a star\nwhere you live where you are\nbe a star"
+      ],
+      "id": 14
+    },
+    {
+      "name": "forget me not",
+      "story": "blue birb",
+      "image": "https://www.birdnote.org/sites/default/files/Indigo-Bunting-male-800-Kelly-Colgan-Azar-CC.jpg",
+      "likes": 0,
+      "comments": [
+        "heyo forget me always"
+      ],
+      "id": 15
+    },
+    {
+      "name": "Miffy",
+      "story": "she luvs u",
+      "image": "https://www.birdcount.org/wp-content/uploads/2022/03/Boreal-Chickadee_Simon-Boivin_CA_ML417743011-edited-e1662643645257-1280x833.jpg",
+      "likes": 1,
+      "comments": [
+        "hey miffles"
+      ],
+      "id": 16
+    },
+    {
+      "name": "Jerry",
+      "story": "he teaches art",
+      "image": "https://images.saymedia-content.com/.image/t_share/MTc0MjYyNjAyMTAzMjY5MjQ0/10-colourful-birds.jpg",
+      "likes": 1,
+      "comments": [
+        "jerry jerry quite contrary"
+      ],
+      "id": 17
+    },
+    {
+      "name": "Tiger",
+      "story": "rawr",
+      "image": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_xlarge/public/0412_bird_0.jpg?itok=xA0tNaBF",
+      "likes": 1,
+      "comments": [],
+      "id": 18
+    },
+    {
+      "name": "Ginger",
+      "story": "cuckoo",
+      "image": "https://optimise2.assets-servd.host/steadfast-tern/production/what-is-the-state-bird-of-illinois.jpg?w=1200&h=900&q=80&fm=webp&fit=crop&crop=focalpoint&fp-x=0.5&fp-y=0.5&dm=1635500802&s=d7f6a13fa4bed26d174138bfcd7af917",
+      "likes": 0,
+      "comments": [],
+      "id": 19
+    },
+    {
+      "name": "Selene",
+      "story": "the moon cries for me",
+      "image": "https://www.si.edu/sites/default/files/styles/social_media/public/blog/mountain_bluebird-630x4271.jpg?itok=aqoI7pk6",
+      "likes": 2,
+      "comments": [],
+      "id": 20
+    },
+    {
+      "name": "Mare",
+      "story": "save the kingdom!",
+      "image": "https://coloradoencyclopedia.org/sites/default/files/styles/large/public/Lark-Bunting%5B1%5D.jpg?itok=YqCGxA6C",
+      "likes": 0,
+      "comments": [],
+      "id": 21
+    },
+    {
+      "name": "Ellie",
+      "story": "here is ellie the bird, she loves to swim and eat and clown around",
+      "image": "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/ohio-birds/blue-jay-6951257.jpg?crop=0%2C548%2C4384%2C2411&wid=4000&hei=2200&scl=1.096",
+      "likes": 0,
+      "comments": [],
+      "id": 22
     }
   ]
 }

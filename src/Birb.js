@@ -7,7 +7,7 @@ function Birb( {birb} ){
 
     const {id, name, story, image, likes} = birb;
 
-    const [comments, setComments] = useState([]);
+    const [comments, setComments] = useState(birb.comments);
 
     const [likeCount, setLikeCount] = useState(birb.likes);
 
@@ -32,14 +32,6 @@ function Birb( {birb} ){
         .then(setLikeCount(likes + 1))
     }
 
-
-    useEffect(() => {
-        fetch('http://localhost:4000/birbs/' + id)
-        .then(r => r.json())
-        .then(data => {setComments(data.comments)
-            setLikeCount(data.likes)})
-    }, [birb])
-
     return (
         <div class='birb'>
             <h2>This is {name}</h2> <div class='likes'><h2>{likeCount}</h2><button onClick={handleLike} class='like-btn'>💖</button></div>
@@ -48,7 +40,7 @@ function Birb( {birb} ){
             <h3>Comments: </h3><button id='add-comment' onClick={() => setShowForm(!showForm)} >+</button>
             {showForm && (<CommentForm handleNewComment={handleNewComment} birb={birb} id={id} />)}
             <ol>
-                {comments.reverse().map(comment =>
+                {comments.map(comment =>
                     <Comment key={uuid()} comment={comment} />
                 )}
             </ol>
