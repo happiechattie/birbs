@@ -13,8 +13,8 @@ function Birb( {birb} ){
 
     const [showForm, setShowForm] = useState(false);
 
-    function handleNewComment(newComment){
-        setComments([...comments, newComment])
+    function handleNewComment(newComments){
+        setComments(newComments);
         setShowForm(false);
     }
 
@@ -33,15 +33,15 @@ function Birb( {birb} ){
     }
 
     return (
-        <div class='birb'>
-            <h2>This is {name}</h2> <div class='likes'><h2>{likeCount}</h2><button onClick={handleLike} class='like-btn'>💖</button></div>
+        <div className='birb'>
+            <h2>This is {name}</h2> <div className='likes'><h2>{likeCount}</h2><button onClick={handleLike} className='like-btn'>💖</button></div>
             <h4>{story}</h4>
             <img src={image} /><br/>
             <h3>Comments: </h3><button id='add-comment' onClick={() => setShowForm(!showForm)} >+</button>
             {showForm && (<CommentForm handleNewComment={handleNewComment} birb={birb} id={id} />)}
             <ol>
-                {comments.map(comment =>
-                    <Comment key={uuid()} comment={comment} />
+                {comments.map((comment, index) =>
+                    <Comment key={index} comment={comment} />
                 )}
             </ol>
         </div>

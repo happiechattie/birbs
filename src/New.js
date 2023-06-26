@@ -36,8 +36,8 @@ function New(props){
             })
         })
         .then(r => r.json())
+        .then(newBirb => props.handleNew(newBirb))
         .then(setSubmitted(true))
-        .then(props.handleNew(birbData))
         e.target.reset();
     }
 

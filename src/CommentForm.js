@@ -20,7 +20,8 @@ function CommentForm({birb, id, handleNewComment}){
             })
         })
         .then(r => r.json())
-        .then(() => handleNewComment(comment));
+        .then(newBirb =>
+            handleNewComment(newBirb.comments));
         e.target.reset();
     }
 

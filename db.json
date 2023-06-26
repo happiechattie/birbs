@@ -221,7 +221,8 @@
         "mare mare mare",
         "pat",
         "handle it, mare",
-        "handling it for you, mare"
+        "handling it for you, mare",
+        "eyo"
       ],
       "id": 21
     },
@@ -235,9 +236,176 @@
         "boooooOOooOoO i'm a ghost",
         "borbie",
         "comment",
-        "cheep cheep"
+        "cheep cheep",
+        "cheep",
+        "eyyyy"
       ],
       "id": 22
+    },
+    {
+      "name": "Melanie",
+      "story": "she loves houses",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/House_sparrow04.jpg",
+      "likes": 1,
+      "comments": [
+        "ey mel"
+      ],
+      "id": 23
+    },
+    {
+      "name": "Rasputin",
+      "story": "what a guy",
+      "image": "https://optimise2.assets-servd.host/maniacal-finch/production/animals/southern-rock-hopper-penguin-01-01.jpg?w=1200&auto=compress%2Cformat&fit=crop&dm=1660831481&s=9a929ad4ca101687860476bb97d562c1",
+      "likes": 1,
+      "comments": [
+        "well",
+        "show me tha comment"
+      ],
+      "id": 24
+    },
+    {
+      "name": "candy",
+      "story": "she's so sweet it hurts my teeth",
+      "image": "https://i.guim.co.uk/img/media/91a5272e78198c343c9ba124cd15f5c822f296c8/0_132_4896_2938/master/4896.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=7b2818e5d4fc17be540c032501d8d36e",
+      "likes": 0,
+      "comments": [],
+      "id": 25
+    },
+    {
+      "name": "Halle",
+      "story": "She sings",
+      "image": "https://preview.redd.it/its-so-dang-hard-to-pick-your-favorite-bird-what-are-ten-v0-o6f2qwf7ii1a1.jpg?auto=webp&s=804eab2459914c26cc814547a2e88112fd571636",
+      "likes": 1,
+      "comments": [
+        "hi there"
+      ],
+      "id": 26
+    },
+    {
+      "name": "Joss",
+      "story": "Glossy birb",
+      "image": "https://www.sciencenews.org/wp-content/uploads/2021/09/091021_lo_bird-sing_feat-1030x580.jpg",
+      "likes": 0,
+      "comments": [
+        "she's a star"
+      ],
+      "id": 27
+    },
+    {
+      "name": "Peyton",
+      "story": "Living the life of a love guru",
+      "image": "https://paradepets.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTkxMzY1Nzg4OTQzOTE4NjI1/istock-481057316-jpg.jpg",
+      "likes": 0,
+      "comments": [
+        "hello"
+      ],
+      "id": 28
+    },
+    {
+      "name": "Chili",
+      "story": "SPICY SPICY",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0F9QjkW04MlDQ81YSfoc0-fL7M5JlJf9OcQ&usqp=CAU",
+      "likes": 1,
+      "comments": [
+        "heyo"
+      ],
+      "id": 29
+    },
+    {
+      "name": "Richa",
+      "story": "sHE'S so responsible!!!",
+      "image": "https://publish.illinois.edu/spring-bird-count/files/2020/04/INHS-Polioptila-caerulea-Blue-gray-Gnatcatcher-01-Michael-Jeffords-HEADER2.jpg",
+      "likes": 0,
+      "comments": [
+        "hi richa!!! how are you :)"
+      ],
+      "id": 30
+    },
+    {
+      "name": "Divya",
+      "story": "She's so nice and helpful",
+      "image": "https://i.insider.com/5c2d25aa01c0ea0f3e040593?width=700",
+      "likes": 0,
+      "comments": [
+        "comment",
+        "halp",
+        "this is a comment",
+        "hi divya",
+        "solve my problem. pls.",
+        "oy",
+        "key is index\nindex is key",
+        "halp"
+      ],
+      "id": 31
+    },
+    {
+      "name": "Regina",
+      "story": "She's a queen",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw23WzmAXUqiE7VFfTzrHNazwuVPkwOWEYIc7iBKa-G2t86wvFuis43tDOgoikiGLQttE&usqp=CAU",
+      "likes": 2,
+      "comments": [
+        "queen",
+        "heyo",
+        "well",
+        "hmmm",
+        "valid",
+        "errors everywhere",
+        "uhhh"
+      ],
+      "id": 32
+    },
+    {
+      "name": "shiloh",
+      "story": "stings like a bee",
+      "image": "https://i.ytimg.com/vi/MjEaniGTrx0/maxresdefault.jpg",
+      "likes": 0,
+      "comments": [
+        "sup"
+      ],
+      "id": 33
+    },
+    {
+      "name": "Dumpling",
+      "story": "she bangs",
+      "image": "https://cdn.shopify.com/s/files/1/1317/9597/files/tropical_480x480.png?v=1622625826",
+      "likes": 0,
+      "comments": [
+        "i go crazy"
+      ],
+      "id": 34
+    },
+    {
+      "name": "Stormy",
+      "story": "i luv the kardashians",
+      "image": "https://wallpapers.com/images/hd/cute-bird-pictures-h6mz3ghdofpsxhrf.jpg",
+      "likes": 0,
+      "comments": [
+        "i luv kylie"
+      ],
+      "id": 35
+    },
+    {
+      "name": "floofy",
+      "story": "pet me",
+      "image": "https://assets3.thrillist.com/v1/image/2535578/792x456/scale;webp=auto;jpeg_quality=60;progressive.jpg",
+      "likes": 0,
+      "comments": [
+        "hehehe",
+        "hohoho",
+        "huhuhu",
+        "hihihi"
+      ],
+      "id": 36
+    },
+    {
+      "name": "beetlejugo",
+      "story": "drink drink drink",
+      "image": "https://images.pexels.com/photos/1526410/pexels-photo-1526410.jpeg?cs=srgb&dl=pexels-jean-van-der-meulen-1526410.jpg&fm=jpg",
+      "likes": 0,
+      "comments": [
+        "hahahaha"
+      ],
+      "id": 37
     }
   ]
 }
