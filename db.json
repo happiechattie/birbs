@@ -393,7 +393,8 @@
         "hehehe",
         "hohoho",
         "huhuhu",
-        "hihihi"
+        "hihihi",
+        "uuuuuh"
       ],
       "id": 36
     },
@@ -401,11 +402,19 @@
       "name": "beetlejugo",
       "story": "drink drink drink",
       "image": "https://images.pexels.com/photos/1526410/pexels-photo-1526410.jpeg?cs=srgb&dl=pexels-jean-van-der-meulen-1526410.jpg&fm=jpg",
-      "likes": 0,
+      "likes": 1,
       "comments": [
         "hahahaha"
       ],
       "id": 37
+    },
+    {
+      "name": "pop",
+      "story": "cmere",
+      "image": "https://images.unsplash.com/photo-1490718720478-364a07a997cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y3V0ZSUyMGJpcmR8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+      "likes": 1,
+      "comments": [],
+      "id": 38
     }
   ]
 }
