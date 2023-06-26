@@ -26,13 +26,13 @@ function App() {
       <NavBar />
       <Switch>
         <Route exact path="/">
-          <Home birbs={birbs}  />
+          <Home birbs={birbs} />
         </Route>
         <Route exact path="/new">
           <New handleNew={handleNew}/>
         </Route>
         <Route exact path="/birb">
-          <Random />
+          <Random birbs={birbs} />
         </Route>
       </Switch>
     </div>

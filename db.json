@@ -124,8 +124,10 @@
       "name": "John",
       "story": "john loves cookies and cake and rats and mice",
       "image": "https://cdn.britannica.com/55/118455-050-A14678BB/Osprey.jpg",
-      "likes": 2,
-      "comments": [],
+      "likes": 3,
+      "comments": [
+        "boop"
+      ],
       "id": 12
     },
     {
@@ -246,7 +248,7 @@
       "name": "Melanie",
       "story": "she loves houses",
       "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/House_sparrow04.jpg",
-      "likes": 1,
+      "likes": 2,
       "comments": [
         "ey mel"
       ],
@@ -275,7 +277,7 @@
       "name": "Halle",
       "story": "She sings",
       "image": "https://preview.redd.it/its-so-dang-hard-to-pick-your-favorite-bird-what-are-ten-v0-o6f2qwf7ii1a1.jpg?auto=webp&s=804eab2459914c26cc814547a2e88112fd571636",
-      "likes": 1,
+      "likes": 2,
       "comments": [
         "hi there"
       ],
@@ -394,7 +396,8 @@
         "hohoho",
         "huhuhu",
         "hihihi",
-        "uuuuuh"
+        "uuuuuh",
+        "the floofster"
       ],
       "id": 36
     },
@@ -404,7 +407,10 @@
       "image": "https://images.pexels.com/photos/1526410/pexels-photo-1526410.jpeg?cs=srgb&dl=pexels-jean-van-der-meulen-1526410.jpg&fm=jpg",
       "likes": 1,
       "comments": [
-        "hahahaha"
+        "hahahaha",
+        "hoopshoop",
+        "hop",
+        "phew"
       ],
       "id": 37
     },
@@ -413,7 +419,9 @@
       "story": "cmere",
       "image": "https://images.unsplash.com/photo-1490718720478-364a07a997cd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8Y3V0ZSUyMGJpcmR8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
       "likes": 1,
-      "comments": [],
+      "comments": [
+        "there it is"
+      ],
       "id": 38
     }
   ]
