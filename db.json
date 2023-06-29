@@ -116,7 +116,7 @@
       "name": "Arnold",
       "story": "he likes to swim :)",
       "image": "https://miro.medium.com/v2/resize:fit:1400/0*KSpjMuNzB8H4jnFt",
-      "likes": 1,
+      "likes": 2,
       "comments": [
         "arnie!"
       ],
@@ -425,6 +425,14 @@
         "there it is"
       ],
       "id": 38
+    },
+    {
+      "name": "gertrude",
+      "story": "she sings she dances she flies",
+      "image": "https://images.theconversation.com/files/508037/original/file-20230203-24-uvmpl6.jpg?ixlib=rb-1.1.0&rect=50%2C512%2C5615%2C2808&q=45&auto=format&w=668&h=324&fit=crop",
+      "likes": 0,
+      "comments": [],
+      "id": 39
     }
   ]
 }

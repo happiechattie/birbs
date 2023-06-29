@@ -88,3 +88,8 @@ ol {
   border: none;
   font-size: 25pt;
 }
+
+#newBirb{
+  margin: auto;
+  text-align: center;
+}
