@@ -117,7 +117,9 @@
       "story": "he likes to swim :)",
       "image": "https://miro.medium.com/v2/resize:fit:1400/0*KSpjMuNzB8H4jnFt",
       "likes": 1,
-      "comments": [],
+      "comments": [
+        "arnie!"
+      ],
       "id": 11
     },
     {
