@@ -21,18 +21,30 @@ function App() {
     setBirbs([birb, ...birbs]);
   }
 
+  const randomInt = Math.floor(Math.random() * birbs.length);
+
+  function updatedBirb(newBirb){
+    const updatedBirbs = birbs.map(birb => {
+      if (birb.id === newBirb.id){
+        return newBirb;
+      }
+      else return birb;
+    })
+    setBirbs(updatedBirbs);
+  }
+
   return (
     <div className="App">
       <NavBar />
       <Switch>
         <Route exact path="/">
-          <Home birbs={birbs} />
+          <Home birbs={birbs} updatedBirb={updatedBirb} />
         </Route>
         <Route exact path="/new">
           <New handleNew={handleNew}/>
         </Route>
         <Route exact path="/birb">
-          <Random birbs={birbs} />
+          <Random birbs={birbs} updatedBirb={updatedBirb} randomInt={randomInt} />
         </Route>
       </Switch>
     </div>

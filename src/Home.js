@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { v4 as uuid } from "uuid";
 import Birb from "./Birb";
 
-function Home({ birbs }){
+function Home({ birbs, updatedBirb }){
 
     const [birbToSearch, setBirbToSearch] = useState('');
 
@@ -19,7 +19,7 @@ function Home({ birbs }){
         <div><h1 id='title'>BIRBS</h1>
         <div className='form-container'><input type="text" onChange={handleChange} defaultValue="Where art thou, sweet birbie?"></input></div><br></br>
         {birbsToDisplay.map(birb =>
-            <Birb key={uuid()} birb={birb} />
+            <Birb key={uuid()} birb={birb} updatedBirb={updatedBirb} />
         )}</div>
     )
 }

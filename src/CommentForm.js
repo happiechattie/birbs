@@ -10,6 +10,8 @@ function CommentForm({birb, id, handleNewComment}){
 
     function handleSubmit(e){
         e.preventDefault();
+        const updatedComments = [...birb.comments, comment]
+        console.log(updatedComments)
                 fetch(`http://localhost:4000/birbs/${id}`, {
             method: 'PATCH',
             headers: {
@@ -21,7 +23,7 @@ function CommentForm({birb, id, handleNewComment}){
         })
         .then(r => r.json())
         .then(newBirb =>
-            handleNewComment(newBirb.comments));
+            handleNewComment(newBirb));
         e.target.reset();
     }
 
