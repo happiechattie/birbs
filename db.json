@@ -238,7 +238,7 @@
       "name": "Ellie",
       "story": "here is ellie the bird, she loves to swim and eat and clown around",
       "image": "https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/ohio-birds/blue-jay-6951257.jpg?crop=0%2C548%2C4384%2C2411&wid=4000&hei=2200&scl=1.096",
-      "likes": 2,
+      "likes": 6,
       "comments": [
         "cht cht cht cht ch ch cheep",
         "boooooOOooOoO i'm a ghost",
@@ -246,7 +246,8 @@
         "comment",
         "cheep cheep",
         "cheep",
-        "eyyyy"
+        "eyyyy",
+        "yoyoyo"
       ],
       "id": 22
     },
@@ -369,7 +370,8 @@
       "image": "https://i.ytimg.com/vi/MjEaniGTrx0/maxresdefault.jpg",
       "likes": 2,
       "comments": [
-        "sup"
+        "sup",
+        "hey shiloh"
       ],
       "id": 33
     },
@@ -377,9 +379,10 @@
       "name": "Dumpling",
       "story": "she bangs",
       "image": "https://cdn.shopify.com/s/files/1/1317/9597/files/tropical_480x480.png?v=1622625826",
-      "likes": 0,
+      "likes": 3,
       "comments": [
-        "i go crazy"
+        "i go crazy",
+        "but she moves"
       ],
       "id": 34
     },
@@ -436,7 +439,7 @@
       "name": "gertrude",
       "story": "she sings she dances she flies",
       "image": "https://images.theconversation.com/files/508037/original/file-20230203-24-uvmpl6.jpg?ixlib=rb-1.1.0&rect=50%2C512%2C5615%2C2808&q=45&auto=format&w=668&h=324&fit=crop",
-      "likes": 0,
+      "likes": 3,
       "comments": [
         "...",
         "new comment",
@@ -450,12 +453,13 @@
       "name": "jenny",
       "story": "i love her so much, i wish she was my friend",
       "image": "https://www.guinnessworldrecords.com/Images/cassowary-side_tcm25-568936.jpg",
-      "likes": 9,
+      "likes": 12,
       "comments": [
         "comment",
         "hello jenny",
         "hi jenny",
-        "JENSTER"
+        "jenjenjen",
+        "yo jen"
       ],
       "id": 40
     }
