@@ -19,7 +19,7 @@ function Home({ birbs, updatedBirb }){
         <div><h1 id='title'>BIRBS</h1>
         <div className='form-container'><input type="text" onChange={handleChange} defaultValue="Where art thou, sweet birbie?"></input></div><br></br>
         {birbsToDisplay.map(birb =>
-            <Birb key={uuid()} birb={birb} updatedBirb={updatedBirb} />
+            <Birb key={birb.id} birb={birb} updatedBirb={updatedBirb} />
         )}</div>
     )
 }

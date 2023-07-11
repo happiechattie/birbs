@@ -472,7 +472,9 @@
       "story": "he is cool",
       "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/297076861/",
       "likes": 0,
-      "comments": [],
+      "comments": [
+        "hi jay"
+      ],
       "id": 41
     },
     {
