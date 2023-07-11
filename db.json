@@ -159,9 +159,10 @@
       "name": "forget me not",
       "story": "blue birb",
       "image": "https://www.birdnote.org/sites/default/files/Indigo-Bunting-male-800-Kelly-Colgan-Azar-CC.jpg",
-      "likes": 1,
+      "likes": 6,
       "comments": [
-        "heyo forget me always"
+        "heyo forget me always",
+        ":)"
       ],
       "id": 15
     },
@@ -276,17 +277,20 @@
       "name": "candy",
       "story": "she's so sweet it hurts my teeth",
       "image": "https://i.guim.co.uk/img/media/91a5272e78198c343c9ba124cd15f5c822f296c8/0_132_4896_2938/master/4896.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=7b2818e5d4fc17be540c032501d8d36e",
-      "likes": 0,
-      "comments": [],
+      "likes": 1,
+      "comments": [
+        "i want candy!"
+      ],
       "id": 25
     },
     {
       "name": "Halle",
       "story": "She sings",
       "image": "https://preview.redd.it/its-so-dang-hard-to-pick-your-favorite-bird-what-are-ten-v0-o6f2qwf7ii1a1.jpg?auto=webp&s=804eab2459914c26cc814547a2e88112fd571636",
-      "likes": 4,
+      "likes": 7,
       "comments": [
-        "hi there"
+        "hi there",
+        "hey halle"
       ],
       "id": 26
     },
@@ -294,7 +298,7 @@
       "name": "Joss",
       "story": "Glossy birb",
       "image": "https://www.sciencenews.org/wp-content/uploads/2021/09/091021_lo_bird-sing_feat-1030x580.jpg",
-      "likes": 0,
+      "likes": 4,
       "comments": [
         "she's a star"
       ],
@@ -462,6 +466,22 @@
         "yo jen"
       ],
       "id": 40
+    },
+    {
+      "name": "jay",
+      "story": "he is cool",
+      "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/297076861/",
+      "likes": 0,
+      "comments": [],
+      "id": 41
+    },
+    {
+      "name": "brianna",
+      "story": "she hates people, but also loves people",
+      "image": "https://www.birdsandblooms.com/wp-content/uploads/2018/03/Americangoldfinch_hannah-jones.jpg",
+      "likes": 1,
+      "comments": [],
+      "id": 42
     }
   ]
 }

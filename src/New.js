@@ -1,7 +1,7 @@
 import React, {useState} from "react"
 import Birb from "./Birb";
 
-function New(props){
+function New( {handleNew} ){
 
     const [submitted, setSubmitted] = useState(false);
 
@@ -36,7 +36,7 @@ function New(props){
             })
         })
         .then(r => r.json())
-        .then(newBirb => props.handleNew(newBirb))
+        .then(newBirb => handleNew(newBirb))
         .then(setSubmitted(true))
         e.target.reset();
     }
