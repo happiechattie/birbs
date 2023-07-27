@@ -318,9 +318,11 @@
       "name": "Chili",
       "story": "SPICY SPICY",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0F9QjkW04MlDQ81YSfoc0-fL7M5JlJf9OcQ&usqp=CAU",
-      "likes": 2,
+      "likes": 4,
       "comments": [
-        "heyo"
+        "heyo",
+        "hi chili",
+        "CHILI IS CHILL"
       ],
       "id": 29
     },
@@ -443,7 +445,7 @@
       "name": "gertrude",
       "story": "she sings she dances she flies",
       "image": "https://images.theconversation.com/files/508037/original/file-20230203-24-uvmpl6.jpg?ixlib=rb-1.1.0&rect=50%2C512%2C5615%2C2808&q=45&auto=format&w=668&h=324&fit=crop",
-      "likes": 3,
+      "likes": 4,
       "comments": [
         "...",
         "new comment",
@@ -457,13 +459,14 @@
       "name": "jenny",
       "story": "i love her so much, i wish she was my friend",
       "image": "https://www.guinnessworldrecords.com/Images/cassowary-side_tcm25-568936.jpg",
-      "likes": 12,
+      "likes": 26,
       "comments": [
         "comment",
         "hello jenny",
         "hi jenny",
         "jenjenjen",
-        "yo jen"
+        "yo jen",
+        "jen!"
       ],
       "id": 40
     },
@@ -471,7 +474,7 @@
       "name": "jay",
       "story": "he is cool",
       "image": "https://cdn.download.ams.birds.cornell.edu/api/v1/asset/297076861/",
-      "likes": 0,
+      "likes": 1,
       "comments": [
         "hi jay"
       ],
@@ -481,7 +484,7 @@
       "name": "brianna",
       "story": "she hates people, but also loves people",
       "image": "https://www.birdsandblooms.com/wp-content/uploads/2018/03/Americangoldfinch_hannah-jones.jpg",
-      "likes": 1,
+      "likes": 2,
       "comments": [],
       "id": 42
     }

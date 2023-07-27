@@ -11,7 +11,7 @@ function Random({ birbs, updatedBirb }){
         fetch(`http://localhost:4000/birbs/${birb.id}`)
         .then(r => r.json())
         .then(newBirb => {setBirb(newBirb)})    
-    }, [birb])
+    }, [updatedBirb])
 
     return (<div><Birb birb={birb} updatedBirb={updatedBirb} /></div>)
 }
